@@ -13,6 +13,7 @@ What is Redux?
 
 Why Use Redux for Data Management?
 
+
     Centralized State Management:
 
          Redux stores the application's state in a single store, making it easier to manage and debug compared to having scattered state across multiple components.

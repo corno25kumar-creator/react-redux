@@ -15,6 +15,7 @@ export const fetchProducts = () => {
         type: INCREMENT_COUNT,
       });
     } catch (error) {
+      console.log("error inaction Products in action folder ")
       console.error("error occur during fetchProducts", error);
     }
   };

@@ -17,6 +17,7 @@ export const fetchProducts = () => {
     } catch (error) {
       console.log("error inaction Products in action folder ")
       console.error("error occur during fetchProducts", error);
+
     }
   };
 };
